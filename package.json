@@ -1,7 +1,7 @@
 {
   "name": "simonsays",
   "version": "0.0.1",
-  "description": "Simon Says",
+  "description": "Simon Says game.",
   "main": "simon-says.js",
 
   "directories": {
