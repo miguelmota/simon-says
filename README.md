@@ -1,6 +1,6 @@
 # simon says
 
-> Simon Says game logic in JavaScript.
+> Simon Says game in JavaScript.
 
 # Demo
 
